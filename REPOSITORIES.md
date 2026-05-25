@@ -4,6 +4,14 @@ Status: verified on 2026-05-24.
 
 This file is the public repository map for Landau Fund and the Antigravity research direction.
 
+## Direction Development Protocol
+
+The controlling cross-system protocol for developing the Antigravity direction is maintained in:
+
+`docs/ANTIGRAVITY_DIRECTION_DEVELOPMENT_PROTOCOL.md`
+
+It governs the relationship between GitHub repositories, `landau.website`, Bitrix24, public/private boundaries, reviewer gates, and public communication.
+
 ## Public Repositories
 
 ### Landau Fund Root

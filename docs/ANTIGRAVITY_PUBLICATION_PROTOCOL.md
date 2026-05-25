@@ -4,6 +4,8 @@ Status: active from 2026-05-24.
 
 This protocol protects authorship, public history, and clean separation between open research and private laboratory work.
 
+The broader cross-system development protocol is maintained in `docs/ANTIGRAVITY_DIRECTION_DEVELOPMENT_PROTOCOL.md`.
+
 ## 1. Draft
 
 Drafts start in the private laboratory repository.

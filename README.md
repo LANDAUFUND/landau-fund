@@ -10,6 +10,10 @@ This repository is the public source for Landau Fund research materials, publica
 
 Public materials are published openly. Drafts, raw laboratory notes, internal coordination, sensitive data, access details, and unverified working materials stay in private repositories until approved for release.
 
+## Development Protocol
+
+The cross-system protocol for developing the Antigravity direction across GitHub, website/domain, Bitrix24, review gates, and public communication is maintained in [docs/ANTIGRAVITY_DIRECTION_DEVELOPMENT_PROTOCOL.md](docs/ANTIGRAVITY_DIRECTION_DEVELOPMENT_PROTOCOL.md).
+
 ## Repository Registry
 
 The current public/private repository map is maintained in [REPOSITORIES.md](REPOSITORIES.md).
